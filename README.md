@@ -3,6 +3,7 @@
 # Curso Front-end
 #### EBAC new
 novo texto escrito em 13/11 para teste!!!
+mais linhas de teste!
 # GIT
 ## Conceitos de versionamento
  - Histórico
