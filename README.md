@@ -2,6 +2,7 @@
 
 # Curso Front-end
 #### EBAC new
+#### Nova linha de código do dia 13/11. Enviando pelo git no navegador.
 novo texto escrito em 13/11 para teste!!!
 mais linhas de teste!
 # GIT
