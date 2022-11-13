@@ -1,7 +1,7 @@
 # curso_frontend
 
 # Curso Front-end
-#### EBAC !!!
+#### EBAC new
 
 # GIT
 ## Conceitos de versionamento
